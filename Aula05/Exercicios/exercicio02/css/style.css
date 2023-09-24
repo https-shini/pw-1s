@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+body{
+    font-family: Poppins;
+    font-size: 12pt;
+}
+
+figure{
+    width: 300px;
+    margin: auto;
+    box-shadow: 5px 5px 10px #000;
+    border-radius: 20px;
+}
+              
+figure>img{
+    width: 100%;
+    border-radius: 20px 20px 0px 0px;
+}
+              
+h1, .dist{
+    display: inline-block;
+    width: 49%;
+}
+              
+h1{
+    font-size: 20pt;
+    margin: 0px;
+    padding: 0px;
+}
+              
+.dist img{
+    vertical-align: right;
+}
+              
+.dist{
+    text-align: middle;
+}
+              
+.estrelas img{
+    width: 100px;
+}
+              
+figcaption{
+    padding: 10px;
+}
+              
+.horario *{
+    display: inline-block;
+    width: 65px;
+    line-height: 30px;
+}
+              
+.clock{
+    display: inline-block;
+    width: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+              
+.horario{
+    display: inline-block;
+    vertical-align: middle;
+}
+              
+.reserva{
+    font-size: 20pt;
+    color: red;
+    padding-top: 5px;
+    text-align: center;
+}
+              
+.dias{
+    text-align: center;
+}

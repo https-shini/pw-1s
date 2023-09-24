@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html, body{
+    height: 100%;
+}
+
+#a, #c {background-color: #ff0;}
+#b {background-color: #ccc;}
+
+main{
+    display: grid;
+    grid-template-columns: 2fr 4fr 1fr;
+}

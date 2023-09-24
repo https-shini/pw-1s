@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html, body{
+    height: 100%;
+}
+
+#a {background-color: #f00;}
+#b {background-color: #fffb00;}
+#c {background-color: #000;}
+
+#linha{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: stretch;
+    margin: auto;
+    height: 100%;
+}
+
+#a, #b, #c{
+    flex-grow: 1;
+}

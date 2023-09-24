@@ -13,7 +13,7 @@ Esse projeto foi desenvolvido com a seguinte tecnologia:
 - CSS
 
 ## ☆ Projeto
-Apenas alguns exercícios para treinar programação web, todos os exercicios foram feitos em sala de aula para estudos no segundo semestre de Ciencias da Computação. Você pode visualizar o layout das atividades através do conteudo abaixo.<br>
+Apenas alguns exercícios para treinar programação web, todos os exercicios foram feitos em sala de aula para estudos no primeiro semestre de Ciencias da Computação. Você pode visualizar o layout das atividades através do conteudo abaixo.<br>
 
 <!--
 Conteúdos da aula:

@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins';
+}
+
+header{
+    background-color: cornflowerblue;
+    height: 90px;
+    padding-left: 30px;
+}
+
+#menu, aside{
+    width: 20%;
+}
+
+#menu{
+    background-color: plum;
+}
+
+aside{
+    background-color: aquamarine;
+}
+
+#conteudo{
+    width: 60%;
+    background-color: dimgrey;
+    color: whitesmoke;
+}
+
+footer{
+    background-color: black;
+    color: whitesmoke;
+    clear: both;
+}
+
+#menu, aside, #conteudo{
+    float: left;
+}

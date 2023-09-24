@@ -1,0 +1,44 @@
+@keyframes move{
+	0%{
+		left: -100%;
+	}	
+	100%{
+		left: 0;
+	}
+}
+
+@keyframes fadeIn{
+	0%{
+		opacity: 1;
+	}	
+	50%{
+		opacity: 0;
+	}
+	100%{
+		opacity: 1;
+	}
+}
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html, body{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+img{
+    width: 150px;
+    height: 150px;
+}
+
+
+#container figure{
+    margin: auto;
+    display: inline-block;
+}

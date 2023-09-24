@@ -15,6 +15,7 @@ Esse projeto foi desenvolvido com a seguinte tecnologia:
 ## ☆ Projeto
 Apenas alguns exercícios para treinar programação web, todos os exercicios foram feitos em sala de aula para estudos no segundo semestre de Ciencias da Computação. Você pode visualizar o layout das atividades através do conteudo abaixo.<br>
 
+<!--
 Conteúdos da aula:
 * **[Aula 01:](#)**
 * **[Aula 02:](#)**
@@ -27,6 +28,7 @@ Conteúdos da aula:
 * **[Aula 10:](#)**
 * **[Aula 11:](#)**
 * **[Aula 12:](#)**
+-->
 
 ## ☆ Licença
 

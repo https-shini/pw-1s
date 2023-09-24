@@ -27,3 +27,7 @@ Conteúdos da aula:
 * **[Aula 10:](#)**
 * **[Aula 11:](#)**
 * **[Aula 12:](#)**
+
+## ☆ Licença
+
+Esse projeto está sob a licença MIT.

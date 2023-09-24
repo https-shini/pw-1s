@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form method="get">
+        <fieldset>
+            <legend>Dados do paciente</legend>
+            Nome do paciente: <input type="text" name="nome"><br>
+            Registro hospitalar: <input type="text" name="registro"><br>
+            Data de inclusdo: <input type="date" name="inclusao"><br>
+            Data de nascimento: <input type="date" name="datanasc"><br>
+            E-mail: <input type="email" name="emai L"><br>
+            Género: <br>
+            <label for="gi">
+            <input type="radio" name="genero" value="1" id="g1">Feminino
+            </label>
+            <br>
+            <input type="radio" name="genero" value="2">Masculino<br>
+            Raça declarada:<br>
+            <select name="raca">
+                <option value=""></option>
+                <option value="1">Branca</option>
+                <option value="2">Negra</option>
+                <option value="3">Parda</option>
+                <option value="4">Amarela</option>
+            </select>
+            <br>
+            Como ficou sabendo do estudo:<br>
+            <input type="checkbox" name="convidado" value="convidado">Convidado
+            <br>
+            <input type="checkbox" name="internet" value="internet">Internet
+            <br>
+            <input type="checkbox" name="amigos" value="amigos">Amigos
+            <br>
+            <button type="submit">Enviar</button>
+        </fieldset>
+    </form>
+</body>
+</html>
